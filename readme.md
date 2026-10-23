@@ -1,4 +1,4 @@
-# Step 1 
+# Install & Setup
 1. Clone this repositories in your devices 
 2. cd nodejs_telegram_bot
 3. npm install node-telegram-bot-api@0.66.0 dotenv
